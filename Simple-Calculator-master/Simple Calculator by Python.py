@@ -2,7 +2,7 @@ from tkinter import *;
 from tkinter import messagebox;
 
 def actionauthor():
-    messagebox.showinfo("Author", "Gaurav Rathor\nBatch: 4th year\nDepartment: CSE\nIET DAVV")
+    messagebox.showinfo("Author", "Gaurav Rathor\nBatch: 4th year\nDepartment: etc\nIET DAVV")
 
 #Check weather the input string is a number or not
 def is_number(s):
